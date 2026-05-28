@@ -1,0 +1,6 @@
+{
+  "name": "Om Lasure",
+  "description": "Professional engineering portfolio and interactive labs of Om Lasure, combining Electrical Engineering with Artificial Intelligence. Features interactive neural network visualizations, IoT edge labs, and deep tech explorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
